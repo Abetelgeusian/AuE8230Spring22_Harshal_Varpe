@@ -1,0 +1,2 @@
+lab2
+-DCATKIN_DEVEL_PREFIX=/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/install -G Unix Makefiles
