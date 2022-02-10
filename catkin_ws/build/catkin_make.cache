@@ -1,2 +1,2 @@
-lab2
+Assignment2_ws:lab2:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations:turtlesim_cleaner
 -DCATKIN_DEVEL_PREFIX=/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/install -G Unix Makefiles

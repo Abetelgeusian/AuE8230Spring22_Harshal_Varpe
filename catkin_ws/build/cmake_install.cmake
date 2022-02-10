@@ -131,7 +131,12 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/turtlebot3_simulations/turtlebot3_simulations/cmake_install.cmake")
+  include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/Assignment2_ws/cmake_install.cmake")
   include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/lab2/cmake_install.cmake")
+  include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/turtlebot3_simulations/turtlebot3_fake/cmake_install.cmake")
+  include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/turtlebot3_simulations/turtlebot3_gazebo/cmake_install.cmake")
+  include("/home/harshal/git_ws/AuE8230Spring22_Harshal_Varpe/catkin_ws/build/turtlesim_cleaner/cmake_install.cmake")
 
 endif()
 
